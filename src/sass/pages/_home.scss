@@ -1,1 +1,32 @@
 /* home */
+
+img {
+    height: 600px;
+    border-radius: 25px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.poem {
+    text-align: center;
+}
+
+h3 {
+    display: inline-block;
+    padding-bottom: 1em;
+}
+
+.poem__stanza {
+    display: inline-block;
+}
+
+.poem__break {
+    max-width: max-content;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.photo-credit {
+    display: inline-block;
+    text-align: center;
+}
